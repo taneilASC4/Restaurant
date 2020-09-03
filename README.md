@@ -5,12 +5,12 @@ Template Name: Restaurant
 
 # [Restaurant](https://taneilasc4.github.io/Restaurant/)
 
-#[Author & acknowledgment]:
+# [Author & acknowledgment]:
  Taneil Knowles
 
  BootstrapMade.com
 
-#[License]: 
+# [License]: 
 
 Copyright (c) 1990-1999 Sleepycat Software. All rights reserved.
 
